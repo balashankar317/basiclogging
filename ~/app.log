@@ -1,0 +1,58 @@
+[DEBUG] 2023-12-03 08:30:12.635 [main] ArrayHelper - closing original array
+[DEBUG] 2023-12-03 08:30:12.639 [main] ArrayHelper - -----------------iteration : 0---------------------------
+[DEBUG] 2023-12-03 08:30:12.639 [main] ArrayHelper - array[j]:23 > array[j+1]:12
+[DEBUG] 2023-12-03 08:30:12.639 [main] ArrayHelper - array[j]:23 > array[j+1]:56
+[DEBUG] 2023-12-03 08:30:12.639 [main] ArrayHelper - array[j]:56 > array[j+1]:9
+[DEBUG] 2023-12-03 08:30:12.639 [main] ArrayHelper - array[j]:56 > array[j+1]:39
+[DEBUG] 2023-12-03 08:30:12.640 [main] ArrayHelper - array[j]:56 > array[j+1]:11
+[DEBUG] 2023-12-03 08:30:12.640 [main] ArrayHelper - ----------------------------end of iteration: 0------------------
+[DEBUG] 2023-12-03 08:30:12.640 [main] ArrayHelper - -----------------iteration : 1---------------------------
+[DEBUG] 2023-12-03 08:30:12.640 [main] ArrayHelper - array[j]:12 > array[j+1]:23
+[DEBUG] 2023-12-03 08:30:12.640 [main] ArrayHelper - array[j]:23 > array[j+1]:9
+[DEBUG] 2023-12-03 08:30:12.640 [main] ArrayHelper - array[j]:23 > array[j+1]:39
+[DEBUG] 2023-12-03 08:30:12.640 [main] ArrayHelper - array[j]:39 > array[j+1]:11
+[DEBUG] 2023-12-03 08:30:12.640 [main] ArrayHelper - ----------------------------end of iteration: 1------------------
+[DEBUG] 2023-12-03 08:30:12.640 [main] ArrayHelper - -----------------iteration : 2---------------------------
+[DEBUG] 2023-12-03 08:30:12.640 [main] ArrayHelper - array[j]:12 > array[j+1]:9
+[DEBUG] 2023-12-03 08:30:12.640 [main] ArrayHelper - array[j]:12 > array[j+1]:23
+[DEBUG] 2023-12-03 08:30:12.640 [main] ArrayHelper - array[j]:23 > array[j+1]:11
+[DEBUG] 2023-12-03 08:30:12.640 [main] ArrayHelper - ----------------------------end of iteration: 2------------------
+[DEBUG] 2023-12-03 08:30:12.640 [main] ArrayHelper - -----------------iteration : 3---------------------------
+[DEBUG] 2023-12-03 08:30:12.640 [main] ArrayHelper - array[j]:9 > array[j+1]:12
+[DEBUG] 2023-12-03 08:30:12.641 [main] ArrayHelper - array[j]:12 > array[j+1]:11
+[DEBUG] 2023-12-03 08:30:12.641 [main] ArrayHelper - ----------------------------end of iteration: 3------------------
+[DEBUG] 2023-12-03 08:30:12.641 [main] ArrayHelper - -----------------iteration : 4---------------------------
+[DEBUG] 2023-12-03 08:30:12.641 [main] ArrayHelper - array[j]:9 > array[j+1]:11
+[DEBUG] 2023-12-03 08:30:12.641 [main] ArrayHelper - ----------------------------end of iteration: 4------------------
+[DEBUG] 2023-12-03 08:30:12.641 [main] ArrayHelper - -----------------iteration : 5---------------------------
+[DEBUG] 2023-12-03 08:30:12.641 [main] ArrayHelper - ----------------------------end of iteration: 5------------------
+[DEBUG] 2023-12-03 08:30:12.641 [main] ArrayHelper - sorted array :[9, 11, 12, 23, 39, 56] 
+[DEBUG] 2023-12-03 08:30:24.806 [main] ArrayHelper - closing original array
+[DEBUG] 2023-12-03 08:30:24.811 [main] ArrayHelper - -----------------iteration : 0---------------------------
+[DEBUG] 2023-12-03 08:30:24.811 [main] ArrayHelper - array[j]:23 > array[j+1]:12
+[DEBUG] 2023-12-03 08:30:24.811 [main] ArrayHelper - array[j]:23 > array[j+1]:56
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - array[j]:56 > array[j+1]:9
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - array[j]:56 > array[j+1]:39
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - array[j]:56 > array[j+1]:11
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - ----------------------------end of iteration: 0------------------
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - -----------------iteration : 1---------------------------
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - array[j]:12 > array[j+1]:23
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - array[j]:23 > array[j+1]:9
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - array[j]:23 > array[j+1]:39
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - array[j]:39 > array[j+1]:11
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - ----------------------------end of iteration: 1------------------
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - -----------------iteration : 2---------------------------
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - array[j]:12 > array[j+1]:9
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - array[j]:12 > array[j+1]:23
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - array[j]:23 > array[j+1]:11
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - ----------------------------end of iteration: 2------------------
+[DEBUG] 2023-12-03 08:30:24.812 [main] ArrayHelper - -----------------iteration : 3---------------------------
+[DEBUG] 2023-12-03 08:30:24.813 [main] ArrayHelper - array[j]:9 > array[j+1]:12
+[DEBUG] 2023-12-03 08:30:24.813 [main] ArrayHelper - array[j]:12 > array[j+1]:11
+[DEBUG] 2023-12-03 08:30:24.813 [main] ArrayHelper - ----------------------------end of iteration: 3------------------
+[DEBUG] 2023-12-03 08:30:24.813 [main] ArrayHelper - -----------------iteration : 4---------------------------
+[DEBUG] 2023-12-03 08:30:24.813 [main] ArrayHelper - array[j]:9 > array[j+1]:11
+[DEBUG] 2023-12-03 08:30:24.813 [main] ArrayHelper - ----------------------------end of iteration: 4------------------
+[DEBUG] 2023-12-03 08:30:24.813 [main] ArrayHelper - -----------------iteration : 5---------------------------
+[DEBUG] 2023-12-03 08:30:24.813 [main] ArrayHelper - ----------------------------end of iteration: 5------------------
+[DEBUG] 2023-12-03 08:30:24.813 [main] ArrayHelper - sorted array :[9, 11, 12, 23, 39, 56] 
